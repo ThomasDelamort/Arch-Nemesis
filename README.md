@@ -16,8 +16,6 @@ _Dotfiles + a one-shot install script to go from a bare Arch install to a workin
 
 ## 📸 Screenshot
 
-> _Add one with:_ `grim ~/Pictures/shot.png` _(or_ `grim -g "$(slurp)"` _for a region), then drop it here._
-
 ![screenshot](./screenshots/swappy-20260629_144253.png)
 ![screenshot](./screenshots/swappy-20260629_144948.png)
 
