@@ -171,4 +171,4 @@ Based on [**SolDoesTech's Hyprland config**](https://github.com/SolDoesTech/hypr
 
 ## 📄 License
 
-MIT — see [`LICENSE`](./LICENSE). Check SolDoesTech's terms for anything reused from the original.
+MIT — see [`LICENSE`](./LICENSE). Check SolDoesTech's terms for anything reused from the original
